@@ -24,3 +24,8 @@
 - git pull
 - python SETUP.py
 ```
+
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2348164404128)
+
+#### Thanks For Using My Script
+
