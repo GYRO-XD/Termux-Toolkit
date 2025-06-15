@@ -2,13 +2,11 @@
 🔧 One-Click Setup for Termux | Automatic Package Installation &amp; Configuration
 
 
-- **Military-Grade Encryption**: AES-256-CBC with HMAC-SHA256 integrity checks
-- **File & Text Support**: Encrypt both files and strings
-- **Progress Tracking**: Beautiful Rich-powered progress bars
-- **Termux Ready**: Fully compatible with Android Termux environments
-- **Key Management**: Secure key storage with master password protection
-- **Cross-Platform**: Works on Windows, macOS, Linux, and Android
+##Features
 
+✅ **Auto-Install Essential Packages** – Python, rich, upx, PHP, Ruby, clang & more!
+✅ **Custom Configurations** – Auto-setup .bashrc, termux.properties, and storage permissions.
+✅ **Easy to Use** – Just run one command and let it handle the rest!
 ---
 
 ![screenshot](https://img.shields.io/badge/Termux-Fully_Supported-9cf)
