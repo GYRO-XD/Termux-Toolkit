@@ -18,8 +18,8 @@
 
 ### Run script
 ```python
-- git clone https://github.com/GYRO-XD/Termux Toolkit.git
-- cd Termux Toolkit
+- git clone https://github.com/GYRO-XD/Termux-Toolkit.git
+- cd Termux-Toolkit
 - ls
 - git pull
 - python SETUP.py
